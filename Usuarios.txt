@@ -1,0 +1,3 @@
+Alejandro Abad Martínez|aabad96|1234|admin
+Carlos Abad Urquijo|carlos1990|4321|comprador
+Pedro|a|a|comprador

@@ -1,0 +1,5 @@
+Pera|Limonera|5.0|3|/users/img/pera.jpg
+Naranja|Dulce|3.50|23|/users/img/naranja.jpg
+Piña|Limonera|1.40|12|/users/img/pina.jpg
+Coco|Del Congo|1.00|14|/users/img/coco.jpg
+Platano|De Canarias|45.50|30|/users/img/platano.jpg
